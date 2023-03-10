@@ -1,0 +1,7 @@
+this is my first text file in the project
+ls list the file
+mkdir to create folder
+git status to check the status of files
+git add to add the files to stage
+git commit to save it in project
+this is the git life cycle
