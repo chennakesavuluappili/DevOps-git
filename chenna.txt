@@ -5,3 +5,7 @@ git status to check the status of files
 git add to add the files to stage
 git commit to save it in project
 this is the git life cycle
+
+do we anything to do
+
+
